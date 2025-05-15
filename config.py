@@ -105,7 +105,7 @@ DURATION_LIMIT = time_to_seconds(f"{DURATION_LIMIT_MIN}:00")
 
 
 # ───── Bot Introduction Messages ───── #
-AYU = ["💞", "🦋", "🔍", "🧪", "⚡️", "🔥", "🎩", "🌈", "🍷", "🥂", "🥃", "🕊️", "🪄", "💌", "🧨"]
+AYU = ["♟", "🧩", "🎮", "🧪", "⚡️", "🔥", "🎩", "🕹", "🎲", "🎮", "🥃", "✈️", "🪄", "✈️", "🧨"]
 
 
 # ───── Runtime Structures ───── #
