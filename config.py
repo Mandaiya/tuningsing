@@ -82,19 +82,19 @@ STICKERS = [
     "CAACAgUAAxkBAAEMJd9mShpPbdal7WLw6Hlx35toVferNQACkQQAAiQRAVcenyI_tCbFdjUE",
     "CAACAgUAAxkBAAEOfbpoJUczwHHyzXd8AAEfWy8FWxQa6uMAAqoWAALE_vBUqLhCDeA4YPM2BA"
 ]
-HELP_IMG_URL = "https://files.catbox.moe/h3jqa8.jpg"
-PING_VID_URL = "https://files.catbox.moe/mi8nr0.mp4"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/t72ntd.jpg"
-STATS_VID_URL = "https://files.catbox.moe/5vdaw5.mp4"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/90juvd.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/7qplwr.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/4roh51.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/wpkxzt.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/cq87ww.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/qp5aa5.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/qp5aa5.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/qp5aa5.jpg"
-FAILED = "https://files.catbox.moe/cq87ww.jpg"
+HELP_IMG_URL = "https://files.catbox.moe/0g4uy5.jpg"
+PING_VID_URL = "https://files.catbox.moe/ed0jqu.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/oa2k89.jpg"
+STATS_VID_URL = "https://files.catbox.moe/otj3qc.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/1zecsd.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/1zecsd.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/ao2rqx.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ya8or0.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/bzkhj6.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/f72mzh.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/f72mzh.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/f72mzh.jpg"
+FAILED = "https://files.catbox.moe/qpr4xx.jpg"
 
 
 # ───── Utility & Functional ───── #
