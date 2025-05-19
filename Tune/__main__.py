@@ -13,20 +13,6 @@ from Tune.utils.database import get_banned_users, get_gbanned
 from Tune.utils.cookie_handler import fetch_and_store_cookies 
 from config import BANNED_USERS
 from aiohttp import web
-routes = web.RouteTableDef()
-
-@routes.get("/", allow_head=True)
-async def root_route_handler(request):
-    return web.json_response({"status": "running"})
-
-async def web_server():
-    web_app = web.Application(client_max_size=30000000)
-    web_app.add_routes(routes)
-    return web_app
-
-wapp = web.AppRunner(await web_server())
-    await wapp.setup()
-    await web.TCPSite(wapp, "0.0.0.0", PORT).start()
 
 from Tune.antispam import (
     init_antispam,
